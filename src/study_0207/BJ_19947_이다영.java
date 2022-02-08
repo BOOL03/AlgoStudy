@@ -1,4 +1,4 @@
-package study;
+package study_0207;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class BJ_투자의귀재배주형_19947 {
+public class BJ_19947_이다영 {
 	static List <Integer> list = new ArrayList<>();
 	static int H, Y;
 	public static void main(String[] args) throws Exception{

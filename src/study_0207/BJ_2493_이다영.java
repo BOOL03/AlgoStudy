@@ -1,4 +1,4 @@
-package hwalgo03_부울경_3반_이다영;
+package study_0207;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 69574
  * 00224
  */
-public class Main {
+public class BJ_2493_이다영 {
 	static int N;
 	static Stack<int[]> stack = new Stack<>();
 
