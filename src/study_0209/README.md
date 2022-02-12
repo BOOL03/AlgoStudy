@@ -6,7 +6,7 @@
 
 # BOJ1149
 
-## ![silver1](https://static.solved.ac/tier_small/10.svg) [Silver I] RGB거리
+## ![silver1](https://static.solved.ac/tier_small/10.svg){:width="30" height="30"} [Silver I] RGB거리
 
 [문제 링크](https://www.acmicpc.net/problem/1149)
 
