@@ -6,7 +6,7 @@
 
 # BOJ1149
 
-### [Silver I] RGB거리
+## [Silver I] RGB거리
 
 [문제 링크](https://www.acmicpc.net/problem/1149)
 
@@ -129,7 +129,7 @@ RGB거리에는 집이 N개 있다. 거리는 선분으로 나타낼 수 있고,
 
 # BOJ1182
 
-### [Silver II] 부분수열의 합
+## [Silver II] 부분수열의 합
 
 [문제 링크](https://www.acmicpc.net/problem/1182)
 
@@ -177,7 +177,7 @@ N개의 정수로 이루어진 수열이 있을 때, 크기가 양수인 부분�
 
 # BOJ9663
 
-### [Gold V] N-Queen
+## [Gold V] N-Queen
 
 [문제 링크](https://www.acmicpc.net/problem/9663)
 
