@@ -1,6 +1,4 @@
----
 [[Silver I] RGB거리 - 1149](#[Silver I] RGB거리 - 1149)
----
 
 # [Silver I] RGB거리 - 1149
 
