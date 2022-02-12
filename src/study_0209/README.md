@@ -1,6 +1,6 @@
 ### 목차
 
-[RGB거리 - 1149](#[Silver-I])
+[RGB거리 - 1149](#RGB거리)
 
 # [Silver I] RGB거리 - 1149
 
