@@ -6,7 +6,7 @@
 
 # BOJ11899
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:30px; height:30px"> [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:25px; height:25px"> [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -114,7 +114,7 @@
 
 # BOJ19947
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:30px; height:30px"> [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:25px; height:25px"> [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -186,7 +186,7 @@
 
 # BOJ2493
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:30px; height:30px"> [탑](https://www.acmicpc.net/problem/2493)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:25px; height:25px"> [탑](https://www.acmicpc.net/problem/2493)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
