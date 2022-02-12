@@ -1,6 +1,8 @@
-[[Silver I] RGB거리 - 1149](#[Silver I] RGB거리 - 1149)
+### 목차
 
-# [Silver I] RGB거리 - 1149
+[RGB거리 - 1149](#problem-1)
+
+# problem 1 <br/> [Silver I] RGB거리 - 1149
 
 [문제 링크](https://www.acmicpc.net/problem/1149)
 
