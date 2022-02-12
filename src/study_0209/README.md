@@ -1,6 +1,16 @@
-# [Silver I] RGB거리 - 1149
+# 문제 목록
 
-[문제 링크](https://www.acmicpc.net/problem/1149)
+- ### [RGB거리 - 1149](#boj1149)<br/>
+- ### [부분수열의 합 - 1182](#boj1182)<br/>
+- ### [N-Queen - 9663](#boj9663)
+
+<br/>
+
+<br/>
+
+# BOJ1149
+
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:25px; height:25px"> [RGB거리](https://www.acmicpc.net/problem/1149)
 
 |        시간 제한        | 메모리 제한 |
 | :---------------------: | :---------: |
@@ -119,9 +129,9 @@ RGB거리에는 집이 N개 있다. 거리는 선분으로 나타낼 수 있고,
 <br/>
 <br/>
 
-# [Silver II] 부분수열의 합 - 1182
+# BOJ1182
 
-[문제 링크](https://www.acmicpc.net/problem/1182)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="[Silver ||]" style="width:25px; height:25px"> [부분수열의 합](https://www.acmicpc.net/problem/1182)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -165,9 +175,9 @@ N개의 정수로 이루어진 수열이 있을 때, 크기가 양수인 부분�
 <br/>
 <br/>
 
-# [Gold V] N-Queen - 9663
+# BOJ9663
 
-[문제 링크](https://www.acmicpc.net/problem/9663)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:25px; height:25px">[N-Queen](https://www.acmicpc.net/problem/9663)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |

@@ -1,6 +1,16 @@
-# [Silver IV] 괄호 끼워넣기 - 11899
+# 문제 목록
 
-[문제 링크](https://www.acmicpc.net/problem/11899)
+- ### [괄호 끼워넣기 - 11899](#boj11899)<br/>
+- ### [투자의 귀재 배주형 - 19947](#boj19947)<br/>
+- ### [탑 - 2493](#boj2493)
+
+<br/>
+
+<br/>
+
+# BOJ11899
+
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:25px; height:25px"> [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -106,9 +116,9 @@
 <br/>
 <br/>
 
-# [Silver V] 투자의 귀재 배주형 - 19947
+# BOJ19947
 
-[문제 링크](https://www.acmicpc.net/problem/19947)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:25px; height:25px"> [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -178,9 +188,9 @@
 <br/>
 <br/>
 
-# [Gold V] 탑 - 2493
+# BOJ2493
 
-[문제 링크](https://www.acmicpc.net/problem/2493)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:25px; height:25px"> [탑](https://www.acmicpc.net/problem/2493)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
