@@ -4,6 +4,12 @@
 - ### [투자의 귀재 배주형 - 19947](#boj19947)<br/>
 - ### [탑 - 2493](#boj2493)
 
+<br/>
+
+---
+
+<br/>
+
 # BOJ11899
 
 ## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:25px; height:25px"> [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)

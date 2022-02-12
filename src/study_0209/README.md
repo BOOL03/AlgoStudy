@@ -4,6 +4,12 @@
 - ### [부분수열의 합 - 1182](#boj1182)<br/>
 - ### [N-Queen - 9663](#boj9663)
 
+<br/>
+
+---
+
+<br/>
+
 # BOJ1149
 
 ## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:25px; height:25px"> [RGB거리](https://www.acmicpc.net/problem/1149)
