@@ -6,7 +6,7 @@
 
 # BOJ1149
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:30px; height:30px"> RGB거리 [문제 링크](https://www.acmicpc.net/problem/1149)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:30px; height:30px"> [RGB거리](https://www.acmicpc.net/problem/1149)
 
 |        시간 제한        | 메모리 제한 |
 | :---------------------: | :---------: |
@@ -127,7 +127,7 @@ RGB거리에는 집이 N개 있다. 거리는 선분으로 나타낼 수 있고,
 
 # BOJ1182
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="[Silver ||]" style="width:30px; height:30px"> 부분수열의 합 [문제 링크](https://www.acmicpc.net/problem/1182)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="[Silver ||]" style="width:30px; height:30px"> [부분수열의 합](https://www.acmicpc.net/problem/1182)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -173,7 +173,7 @@ N개의 정수로 이루어진 수열이 있을 때, 크기가 양수인 부분�
 
 # BOJ9663
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:30px; height:30px"> N-Queen [문제 링크](https://www.acmicpc.net/problem/9663)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:30px; height:30px">[N-Queen](https://www.acmicpc.net/problem/9663)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
