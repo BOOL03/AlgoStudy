@@ -1,4 +1,12 @@
-# [Silver IV] 괄호 끼워넣기 - 11899
+# 문제 목록
+
+- [괄호 끼워넣기 - 11899](#boj11899)<br/>
+- [투자의 귀재 배주형 - 19947](#boj19947)<br/>
+- [탑 - 2493](#boj2493)
+
+# BOJ11899
+
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:30px; height:30px"> 괄호 끼워넣기
 
 [문제 링크](https://www.acmicpc.net/problem/11899)
 
@@ -106,7 +114,9 @@
 <br/>
 <br/>
 
-# [Silver V] 투자의 귀재 배주형 - 19947
+# BOJ19947
+
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:30px; height:30px"> 투자의 귀재 배주형
 
 [문제 링크](https://www.acmicpc.net/problem/19947)
 
@@ -178,7 +188,9 @@
 <br/>
 <br/>
 
-# [Gold V] 탑 - 2493
+# BOJ2493
+
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:30px; height:30px"> 탑
 
 [문제 링크](https://www.acmicpc.net/problem/2493)
 
