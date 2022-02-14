@@ -139,7 +139,7 @@ z
 
 예를 들어 M=5, N=7 인 모눈종이 위에 <그림 1>과 같이 직사각형 3개를 그렸다면, 그 나머지 영역은 <그림 2>와 같이 3개의 분리된 영역으로 나누어지게 된다.
 
-<img alt="" src="./img/2583.png" style="height:60px; width:60px">
+<img alt="" src="./img/2583.png" style="height:300px; width:500px">
 
 <그림 2>와 같이 분리된 세 영역의 넓이는 각각 1, 7, 13이 된다.
 
@@ -179,7 +179,7 @@ M, N과 K 그리고 K개의 직사각형의 좌표가 주어질 때, K개의 직
 
 # BOJ3085
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Gold V]" style="width:25px; height:25px">[사탕 게임](https://www.acmicpc.net/problem/3085)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:25px; height:25px">[사탕 게임](https://www.acmicpc.net/problem/3085)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
