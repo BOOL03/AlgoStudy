@@ -29,9 +29,7 @@ public class BJ_11723_조현빈 {
 					arr[Integer.parseInt(st.nextToken())] = false;
 					break;
 				case "empty":
-					for (int j = 0; j < 21; j++) {
-						arr[j] = false;
-					}
+					arr = new boolean[21];
 					break;
 				case "all":
 					for (int j = 0; j < 21; j++) {
@@ -45,7 +43,6 @@ public class BJ_11723_조현빈 {
 					} else {
 						arr[n] = true;
 					}
-
 			}
 		}
 		bw.flush();
