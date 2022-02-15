@@ -22,11 +22,11 @@
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver |]" style="width:20px; height:20px"> [영역 구하기 - 2583](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0211)
 
-#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px">[크면서 작은 수 - 2992](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [크면서 작은 수 - 2992](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
 
-#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px">[사탕 게임 - 3085](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0211)
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [사탕 게임 - 3085](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0211)
 
-#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:20px; height:20px">[N-Queen - 9663](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0209)
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:20px; height:20px"> [N-Queen - 9663](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0209)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [집합 - 11723](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
 
