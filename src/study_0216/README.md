@@ -10,7 +10,7 @@
 
 # BOJ1080
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:25px; height:25px"> [행렬]](https://www.acmicpc.net/problem/1080)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:25px; height:25px"> [행렬](https://www.acmicpc.net/problem/1080)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
@@ -161,11 +161,11 @@
 
 여학생은 자기가 받은 수와 같은 번호가 붙은 스위치를 중심으로 좌우가 대칭이면서 가장 많은 스위치를 포함하는 구간을 찾아서, 그 구간에 속한 스위치의 상태를 모두 바꾼다. 이때 구간에 속한 스위치 개수는 항상 홀수가 된다.
 
-<img src="./img/1244_1.png" style="width:250px; height:700px">
+<img src="./img/1244_1.png" style="width:700px; height:250">
 
 예를 들어 <그림 2>에서 여학생이 3을 받았다면, 3번 스위치를 중심으로 2번, 4번 스위치의 상태가 같고 1번, 5번 스위치의 상태가 같으므로, <그림 3>과 같이 1번부터 5번까지 스위치의 상태를 모두 바꾼다. 만약 <그림 2>에서 여학생이 4를 받았다면, 3번, 5번 스위치의 상태가 서로 다르므로 4번 스위치의 상태만 바꾼다.
 
-<img src="./img/1244_2.png" style="width:250px; height:700px">
+<img src="./img/1244_2.png" style="width:700px; height:500px">
 
 입력으로 스위치들의 처음 상태가 주어지고, 각 학생의 성별과 받은 수가 주어진다. 학생들은 입력되는 순서대로 자기의 성별과 받은 수에 따라 스위치의 상태를 바꾸었을 때, 스위치들의 마지막 상태를 출력하는 프로그램을 작성하시오.
 
