@@ -118,7 +118,7 @@
 
 # BOJ2628
 
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver III]" style="width:25px; height:25px"> [종이자르기](https://www.acmicpc.net/problem/2628)
+## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver III]" style="width:25px; height:25px"> [종이자르기](https://www.acmicpc.net/problem/2628)
 
 | 시간 제한 | 메모리 제한 |
 | :-------: | :---------: |
