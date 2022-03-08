@@ -1,4 +1,4 @@
-package study0307;
+package study_0307;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
