@@ -34,6 +34,8 @@
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [수열 - 2559](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0221)
 
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver I]" style="width:20px; height:20px"> [경비원 - 2564](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0225)
+
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [빙고 - 2578](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0223)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver |]" style="width:20px; height:20px"> [영역 구하기 - 2583](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0211)
@@ -53,6 +55,8 @@
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [집합 - 11723](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:20px; height:20px"> [괄호 끼워넣기 - 11899](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0207)
+
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" alt="[Gold III]" style="width:20px; height:20px"> [경사로 - 14890](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0225)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [N과 M (1) - 15649](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0218)
 
