@@ -10,6 +10,8 @@
 
 # 문제 목록
 
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="[Gold IV]" style="width:20px; height:20px"> [거짓말 - 1043](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0228)
+
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="[Silver V]" style="width:20px; height:20px"> [행렬 - 1080](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0216)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [막대기 - 1094](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
@@ -53,6 +55,8 @@
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="[Gold V]" style="width:20px; height:20px"> [N-Queen - 9663](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0209)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="[Silver IV]" style="width:20px; height:20px"> [자리 배정 - 10157](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0221)
+
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [다음 순열 - 10972](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0228)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [집합 - 11723](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
 
