@@ -44,6 +44,8 @@
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [색종이 만들기 - 2630](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0218)
 
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [수 이어가기 - 2635](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0225)
+
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [크면서 작은 수 - 2992](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0214)
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [사탕 게임 - 3085](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0211)
