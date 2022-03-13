@@ -66,4 +66,6 @@
 
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="[Silver III]" style="width:20px; height:20px"> [N과 M (1) - 15649](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0218)
 
+#### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="[Silver II]" style="width:20px; height:20px"> [카드 합체 놀이 - 15903](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0228)
+
 #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="[Silver V]" style="width:20px; height:20px"> [투자의 귀재 배주형 - 19947](https://github.com/BOOL03/AlgoStudy/tree/main/src/study_0207)
