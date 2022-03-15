@@ -54,19 +54,26 @@ public class BJ_16637_조무현 {
 				// 괄호에 포함되지 않는 연산자인 경우
 				else {
 					valid_op.add(operator[i]);
-					
+					// 첫번째 연산자 인경우에는 왼쪽 숫자를 추가
 					if(i == 0) {
 						valid_num.add(num[i]);
 					}
+					// 현재 연산자의 다음연산자가 괄호에 포함되지 않은 연산자라면 
+					// 연산자의 오른쪽 위치 숫자를 추가
+					// (1+2) + (2+3) 이런 경우를 배제하기 위해서
+					// (1+2) + 2 + 3  이런 경우에는 추가
 					if(i+1 < N/2 && !selected[i+1]) {
 						valid_num.add(num[i+1]);						
 					}
+					// 현재 연산자의 다음연산자가 없다면 오른쪽 숫자 추가
+					// (1+2) + 2 이런경우
 					if(i+1 >= N/2) {
 						valid_num.add(num[i+1]);
 					}
 				}
 			}
-			
+			// 괄호안에 있는걸 다 계산 해준 결과이므로
+			// 숫자(valid_num)와 연산자(valid_op)만 남음
 			int sum = valid_num.get(0);
 			for (int i = 0; i < valid_op.size(); i++) {
 				char op = valid_op.get(i);
@@ -76,6 +83,8 @@ public class BJ_16637_조무현 {
 			return;
 		}
 		selected[tgtIdx] = true;
+		// 현재 위치의 연산자를 선택하면 바로 다음위치의 연산자는
+		// 괄호에 포함시킬수없음
 		subSet(tgtIdx + 2);
 		selected[tgtIdx] = false;
 		subSet(tgtIdx + 1);
