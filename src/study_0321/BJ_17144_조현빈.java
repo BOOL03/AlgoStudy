@@ -8,6 +8,7 @@ public class BJ_17144_조현빈 {
 	public static void main( String[] args ) throws Exception {
 		BufferedReader  br         = new BufferedReader( new InputStreamReader( System.in ) );
 		StringTokenizer st         = new StringTokenizer( br.readLine() );
+		
 		int             R          = Integer.parseInt( st.nextToken() );
 		int             C          = Integer.parseInt( st.nextToken() );
 		int             T          = Integer.parseInt( st.nextToken() );
