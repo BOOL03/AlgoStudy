@@ -1,10 +1,10 @@
-package study;
+package study_0304;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_쉽게푸는문제_1292 {
+public class BJ_1292_이다영 {
 	static int S, E;
 	static int[] num;
 	public static void main(String[] args)throws Exception{

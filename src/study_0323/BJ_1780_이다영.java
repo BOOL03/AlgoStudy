@@ -1,10 +1,10 @@
-package study;
+package study_0323;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_종이의개수_1780 {
+public class BJ_1780_이다영 {
 	static int N;
 	static int[][]paper;
 	static int[] ans;

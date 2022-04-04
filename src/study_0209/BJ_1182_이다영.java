@@ -1,10 +1,10 @@
-package study;
+package study_0209;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_부분수열의합_1182 {
+public class BJ_1182_이다영 {
 	static int N, S, COUNT;
 	static int [] src;
 	static boolean[] select;

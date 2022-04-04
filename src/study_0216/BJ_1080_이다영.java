@@ -1,10 +1,10 @@
-package study;
+package study_0216;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_행렬_1080 {
+public class BJ_1080_이다영 {
 	static int N, M, ans;
 	
 	static char[][] src;

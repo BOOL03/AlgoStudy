@@ -1,4 +1,4 @@
-package study;
+package study_0209;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -13,7 +13,7 @@ r  g  b
 13 89 99
  */
 
-public class BJ_RGB거리_1149 {
+public class BJ_1149_이다영 {
 	static int N, min;
 	static int[][] src;
 	

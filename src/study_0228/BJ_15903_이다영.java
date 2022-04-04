@@ -1,4 +1,4 @@
-package study;
+package study_0228;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ_카드합체놀이_15903 {
+public class BJ_15903_이다영 {
 	static int N, M;
 	static BigInteger ans;
 	static long[] src;

@@ -1,11 +1,11 @@
-package study;
+package study_0228;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ_거짓말_1043 {
+public class BJ_1043_이다영 {
 	static int N, M, S, ans;
 	static boolean[] secret;
 	

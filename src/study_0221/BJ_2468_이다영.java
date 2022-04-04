@@ -1,10 +1,10 @@
-package study;
+package study_0221;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_안전영역_2468 {
+public class BJ_2468_이다영 {
 	
 	static int N, M, max;
 	static int[][] map;

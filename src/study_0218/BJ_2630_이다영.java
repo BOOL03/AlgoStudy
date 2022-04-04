@@ -1,10 +1,10 @@
-package study;
+package study_0218;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_색종이만들기_2630 {
+public class BJ_2630_이다영 {
 	static int N, cntW, cntB;
 	static int[][] map;
 	public static void main(String[] args) throws Exception{

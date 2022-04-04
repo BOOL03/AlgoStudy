@@ -1,11 +1,11 @@
-package study;
+package study_0216;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ_예산_2512 {
+public class BJ_2512_이다영 {
 	static int N;
 	static int[] budget;
 	static int MAX;

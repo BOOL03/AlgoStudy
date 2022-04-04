@@ -1,4 +1,4 @@
-package day_03_25;
+package study_0325;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class BJ_알파벳사전순_20920_1 {
+public class BJ_20920_이다영 {
 	static Map<String, Integer> hmMap = new HashMap<>();
 	static int N, M;
 	

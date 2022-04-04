@@ -1,9 +1,9 @@
-package study;
+package study_0211;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class BJ_그룹단어체커_1316 {
+public class BJ_1316_이다영 {
 
 	public static void main(String[] args) throws Exception{
 		// TODO Auto-generated method stub

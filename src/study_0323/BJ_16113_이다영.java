@@ -1,9 +1,9 @@
-package study;
+package study_0323;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class BJ_16113_시그널 {
+public class BJ_16113_이다영 {
 	static int N;
 	static char[][] signal;
 	

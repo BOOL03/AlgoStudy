@@ -1,4 +1,4 @@
-package day_03_25;
+package study_0325;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class BJ_회전초밥_2531 {
+public class BJ_2531_이다영 {
 	static int N, d, k, c, ans;
 	static List<Integer> dish;
 	
