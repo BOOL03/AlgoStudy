@@ -1,10 +1,10 @@
-package study;
+package study_0311;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-public class BJ_BABBA_9625 {
+public class BJ_9625_이다영 {
 	
 	static int N;
 	

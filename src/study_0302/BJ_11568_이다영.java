@@ -1,10 +1,10 @@
-package study;
+package study_0302;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_민균이의계략_11568 {
+public class BJ_11568_이다영 {
 	static int N, ans;
 	static int[] nums;
 	static int[] dp;

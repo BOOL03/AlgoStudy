@@ -44,7 +44,7 @@ public class BJ_10997_조현빈 {
 			for ( int j = 0; j < col; j++ ) {
 				bw.write( String.format( "%c", arr[i][j] ) );
 			}
-			bw.write( "\n" );jsWo
+			bw.write( "\n" );
 		}
 		bw.flush();
 

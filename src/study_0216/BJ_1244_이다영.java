@@ -1,10 +1,10 @@
-package study;
+package study_0216;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_스위치켜고끄기_1244 {
+public class BJ_1244_이다영 {
 	static int N;
 	static int[] switches;
 	static int M;

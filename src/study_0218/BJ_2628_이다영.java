@@ -1,10 +1,10 @@
-package study;
+package study_0218;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_종이자르기_2628 {
+public class BJ_2628_이다영 {
 	
 	static int H, W, N, max;
 	static int [][]map;

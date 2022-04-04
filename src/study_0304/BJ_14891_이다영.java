@@ -1,10 +1,10 @@
-package study;
+package study_0304;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_톱니바퀴_14891 {
+public class BJ_14891_이다영 {
 	static char[] arr1;
 	static char[] arr2;
 	static char[] arr3;

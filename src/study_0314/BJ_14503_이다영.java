@@ -1,10 +1,10 @@
-package study;
+package study_0314;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_로봇청소기_14503 {
+public class BJ_14503_이다영 {
 	static int N, M, ans;
 	static int[][] map;
 	

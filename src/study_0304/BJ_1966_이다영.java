@@ -1,4 +1,4 @@
-package study;
+package study_0304;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ_프린터큐_1966 {
+public class BJ_1966_이다영 {
 	static int T, N, M;
 	static PriorityQueue<int[]> queue;
 	static Queue <int[]> queue2;

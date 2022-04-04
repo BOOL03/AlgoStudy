@@ -1,9 +1,9 @@
-package study;
+package study_0302;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class BJ_뒤집기_1439 {
+public class BJ_1439_이다영 {
 	static boolean[] strArray;
 	static int ans;
 	

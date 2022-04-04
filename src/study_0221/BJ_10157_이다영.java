@@ -1,4 +1,4 @@
-package study;
+package study_0221;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 
 
 
-public class BJ_자리배정_10157 {
+public class BJ_10157_이다영 {
 	static int C, R, M;
 	static int[][]map;
 	static int[] dy = {1, 0, -1, 0};

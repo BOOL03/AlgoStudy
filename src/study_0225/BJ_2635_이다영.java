@@ -1,11 +1,11 @@
-package study;
+package study_0225;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BJ_수이어가기_2635 {
+public class BJ_2635_이다영 {
 	static int N, ans;
 	static List<Integer> answer;
 	static List<Integer> temp;

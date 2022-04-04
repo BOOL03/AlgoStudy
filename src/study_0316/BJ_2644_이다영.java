@@ -1,4 +1,4 @@
-package study;
+package study_0316;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ_촌수계산_2644 {
+public class BJ_2644_이다영 {
 	static int N, a, b, ans = -1;
 	static int dist[];
     static ArrayList<Integer> relation[];

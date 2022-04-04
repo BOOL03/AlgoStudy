@@ -1,4 +1,4 @@
-package study;
+package study_0225;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
 1 2
 
  */
-public class BJ_경비원_2564 {
+public class BJ_2564_이다영 {
 	static int N, M, K, ans;
 	static int sx, sy;
 	static List<int[]> store;
