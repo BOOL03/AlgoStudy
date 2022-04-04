@@ -21,7 +21,7 @@ public class BJ_1347_이다영 {
 		for (int i = 0; i < 101; i++) {
 			for (int j = 0; j < 101; j++) {
 				map[i][j] = '#';
-			}
+			} 
 		}
 		
 		int i = 50;
