@@ -77,7 +77,7 @@ public class BJ_17144_손준혁 {
 					int[] ways = returnWay(x,y);
 					int spread = (dust_map[y][x] / 5)*ways[0];
 					if(dust_map[y][x] - spread > 0 ) { //먼지가 확산될만큼은 있을경우
-						map[y][x] -= spread;8
+						map[y][x] -= spread;
 						for (int i = 1; i <= 4; i++) { // 먼지 확산
 							if(ways[i] == 0) continue;
 							int dx = x + delta_x[i-1];
