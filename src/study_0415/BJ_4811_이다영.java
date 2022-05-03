@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
 
-public class BJ_4811_알약 {
+public class BJ_4811_이다영 {
 	static BigInteger[] fact;
 	static BigInteger[] dp;
 	static int N;
