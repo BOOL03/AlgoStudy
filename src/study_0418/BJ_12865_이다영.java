@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_평범한배낭_12865 {
+public class BJ_12865_이다영{
 	static int N, K;
 	static int[][] item;
 	static int[][] dp;

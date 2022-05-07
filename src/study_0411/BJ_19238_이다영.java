@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ_19238_스타트택시 {
+public class BJ_19238_이다영 {
 	static int N, M, fuel, ans;
 	static int[][] map;
 	static List<Node> cust; // 손님 

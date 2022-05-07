@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_11052_카드구매하기 {
+public class BJ_11052_이다영 {
 	static int[] card;
 	static int[][] dp;
 	static int N;

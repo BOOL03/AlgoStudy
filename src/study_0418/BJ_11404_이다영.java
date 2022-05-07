@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_플로이드_11404 {
+public class BJ_11404_이다영 {
 	static int N, M;
 	static int[][] map;
 	
