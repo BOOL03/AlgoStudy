@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_1052 {
+public class BJ_1052_조현빈 {
 
   static int N, K;
 
