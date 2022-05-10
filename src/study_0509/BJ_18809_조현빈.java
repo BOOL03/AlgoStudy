@@ -25,7 +25,7 @@ class Pos {
   }
 }
 
-public class BJ_18809 {
+public class BJ_18809_조현빈 {
 
   static int N, M, G, R, max, S;
   static int[][] garden;
