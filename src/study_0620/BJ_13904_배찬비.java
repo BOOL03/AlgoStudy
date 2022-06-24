@@ -2,7 +2,7 @@ package study_0620;
 import java.io.*;
 import java.util.*;
 
-public class BJ_13903_배찬비 {
+public class BJ_13904_배찬비 {
 	 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
