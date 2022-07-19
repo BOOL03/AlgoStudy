@@ -10,17 +10,16 @@ import java.util.StringTokenizer;
 
 public class BJ_1461_손준혁 {
 
-    public static void main(String[] args) throws IOException {
-        
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+	private static PriorityQueue<Integer> positiveQ = new PriorityQueue<>((p1, p2) -> p2 - p1);;
+	private static PriorityQueue<Integer> negativeQ = new PriorityQueue<>((p1, p2) -> p2 - p1);;
+	
+	private static int ans = 0;
+	
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
-
-        // 두 우선순위 큐는 내림차순 정렬.
-        PriorityQueue<Integer> positiveQ = new PriorityQueue<>((p1, p2) -> p2 - p1);
-        PriorityQueue<Integer> negativeQ = new PriorityQueue<>((p1, p2) -> p2 - p1);
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
@@ -33,17 +32,14 @@ public class BJ_1461_손준혁 {
             }
         }
 
-        // 가장 멀리 있는 책의 위치를 저장.
-        int maxV = 0;
+        int max = 0;
         if (positiveQ.isEmpty()) {
-            maxV = negativeQ.peek();
+            max = negativeQ.peek();
         } else if (negativeQ.isEmpty()) {
-            maxV = positiveQ.peek();
+            max = positiveQ.peek();
         } else {
-            maxV = Math.max(positiveQ.peek(), negativeQ.peek());
+            max = Math.max(positiveQ.peek(), negativeQ.peek());
         }
-
-        int ans = 0;
 
         while (!positiveQ.isEmpty()) {
             int temp = positiveQ.poll();
@@ -69,10 +65,7 @@ public class BJ_1461_손준혁 {
             ans += temp * 2;
         }
 
-        ans -= maxV;
-        bw.write(ans + "\n");
-        bw.flush();
-        bw.close();
-        br.close();
+        ans -= max;
+        System.out.println(ans);
     }
 }
