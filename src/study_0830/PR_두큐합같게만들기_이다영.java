@@ -36,7 +36,7 @@ public class PR_두큐합같게만들기_이다영 {
 	                answer++;
 	            }
 	            
-	            if(answer > len + 1) return -1;
+	            if(answer > len + 2) return -1;
 	        }
 	        return answer;
 	    }
